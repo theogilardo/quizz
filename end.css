@@ -1,0 +1,55 @@
+
+.end-game {
+  display: flex;
+  -ms-align-items: center;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  background-color: #56a5eb;
+  width: 60rem;
+  height: 60rem;
+  padding: 5rem;
+}
+
+.end-header {
+  font-size: 8rem;
+  margin-bottom: 4rem;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.end-score {
+  color: #eee;
+  padding: 3rem;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 4rem;
+}
+
+.end-box {
+  display: flex;
+  justify-content: space-between;
+  height: 60rem;
+  margin-bottom: 4rem;
+}
+
+.end-image {
+  background-color: white;
+  border: 1rem solid #56a5eb;
+  width: 60rem;
+  display: flex;
+  -ms-align-items: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.end-icon {
+  width: 45rem;
+}
+
+span {
+  font-size: 20rem;
+  font-weight: 600;
+  font-family: 'Permanent Marker', cursive;
+  color: #fdce2e;
+}
