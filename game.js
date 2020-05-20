@@ -11,92 +11,38 @@ let questionCounter = 0;
 let score = 0;
 let questions = [
   {
-    question: "What's Grishka's favorite food?",
-    choice1: "Tuna",
-    choice2: "His own shit",
-    choice3: "Salmon",
-    choice4: "Berries",
-    answer: 3
-  },
-
-  {
-    question: "Qu'elle est le but des diplômates fesses?",
-    choice1: "Faire régner la loi équitablement",
-    choice2: "Etre impartial",
-    choice3: "Réflichir",
-    choice4: "Faire chier les gens",
-    answer: 4
-  },
-
-  {
-    question: "Qu'elle est le plus grand petit plaisir des bounchics",
-    choice1: "Se battre",
-    choice2: "Faire la guerre",
-    choice3: "Labourer des green de golf fraîchement tondus",
-    choice4: "Charger un individu",
-    answer: 3
-  },
-
-    {
-    question: "Qui est le plus propre?",
-    choice1: "Le crâne de Zidane",
-    choice2: "La cuisine de Gordom Ramsey",
-    choice3: "Le Porc Scellé",
-    choice4: "Les fesses de Grishka",
-    answer: 3
-  },
-
-    {
-    question: "Qui est l'ennemi que le roi Bounchic craint le plus?",
-    choice1: "Monsieur Fesse",
-    choice2: "Porcu",
-    choice3: "Festo",
-    choice4: "Ronron",
+    question: "What's the capital of France?",
+    choice1: "Paris",
+    choice2: "Reims",
+    choice3: "Marseille",
+    choice4: "London",
     answer: 1
   },
 
-    {
-    question: "What's the best ligue 1 club?",
-    choice1: "Lyon",
-    choice2: "Lille",
-    choice3: "PSG",
-    choice4: "Reims",
-    answer: 3
-  },
-
-    {
-    question: "Qu'elle est l'activité favorite de GP?",
-    choice1: "Lire l'encyclopédie",
-    choice2: "Dormir",
-    choice3: "Faire un marathon",
-    choice4: "Participer à des débats politiques",
-    answer: 2
-  },
-
-    {
-    question: "What is more dangerous?",
-    choice1: "Jump from a plane without a parachute",
-    choice2: "Faire un 1v1 contre la Montagne",
-    choice3: "Surf on lava",
-    choice4: "Retirer l'écharpe de Grishka",
-    answer: 4
-  },
-
-    {
-    question: "Where is Mishka from?",
-    choice1: "Germany",
-    choice2: "Russia",
-    choice3: "Canada",
-    choice4: "Antartica",
+  {
+    question: "What's 2 x 2 + 2 + 2 / 2",
+    choice1: "8",
+    choice2: "5",
+    choice3: "7",
+    choice4: "9",
     answer: 3
   },
 
   {
-    question: "How many times a day does Grishka wipe his ass?",
-    choice1: "3",
-    choice2: "1",
-    choice3: "Never",
-    choice4: "25",
+    question: "How many corners are in a square ?",
+    choice1: "1",
+    choice2: "6",
+    choice3: "4",
+    choice4: "3",
+    answer: 3
+  },
+
+  {
+    question: "How many kms is a marathon ?",
+    choice1: "30",
+    choice2: "21",
+    choice3: "15",
+    choice4: "42",
     answer: 4
   }
 ];
